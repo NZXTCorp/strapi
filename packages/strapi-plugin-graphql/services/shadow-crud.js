@@ -317,7 +317,14 @@ const buildAssocResolvers = model => {
                 [`${targetPK}_in`]: targetIds.map(_.toString),
               };
 
-              return loader.load({ filters }).then(r => assignOptions(r, obj));
+              const idOrder = new Map();
+              obj[alias].forEach((value, index) => idOrder.set(value.id, index));
+
+              return loader
+                .load({ filters })
+                .then(r =>
+                  assignOptions(r, obj).sort((a, b) => idOrder.get(a.id) - idOrder.get(b.id))
+                );
             }
           };
           break;
