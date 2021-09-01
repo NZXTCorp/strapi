@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-upload",
+  "name": "@nzxt/strapi-plugin-upload",
   "version": "3.6.8",
   "description": "Makes it easy to upload images and files to your Strapi Application.",
   "strapi": {

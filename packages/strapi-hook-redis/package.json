@@ -1,5 +1,5 @@
 {
-  "name": "strapi-hook-redis",
+  "name": "@nzxt/strapi-hook-redis",
   "version": "3.6.8",
   "description": "Redis hook for the Strapi framework",
   "homepage": "https://strapi.io",

@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-my-plugin",
+  "name": "@nzxt/strapi-plugin-my-plugin",
   "version": "0.0.0",
   "description": "This is the description of my plugin.",
   "private": true,

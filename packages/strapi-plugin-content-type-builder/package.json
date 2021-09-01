@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-content-type-builder",
+  "name": "@nzxt/strapi-plugin-content-type-builder",
   "version": "3.6.8",
   "description": "Strapi plugin to create content type (API).",
   "strapi": {

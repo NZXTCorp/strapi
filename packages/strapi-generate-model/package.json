@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate-model",
+  "name": "@nzxt/strapi-generate-model",
   "version": "3.6.8",
   "description": "Generate a model for a Strapi API.",
   "homepage": "https://strapi.io",

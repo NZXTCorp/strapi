@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-nodemailer",
+  "name": "@nzxt/strapi-provider-email-nodemailer",
   "version": "3.6.8",
   "description": "Nodemailer provider for Strapi 3",
   "homepage": "https://strapi.io",

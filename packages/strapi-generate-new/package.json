@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate-new",
+  "name": "@nzxt/strapi-generate-new",
   "version": "3.6.8",
   "description": "Generate a new Strapi application.",
   "homepage": "https://strapi.io",

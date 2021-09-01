@@ -1,5 +1,5 @@
 {
-  "name": "strapi-hook-ejs",
+  "name": "@nzxt/strapi-hook-ejs",
   "version": "3.6.8",
   "description": "EJS hook for the Strapi framework",
   "homepage": "https://strapi.io",

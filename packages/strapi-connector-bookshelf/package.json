@@ -1,5 +1,5 @@
 {
-  "name": "strapi-connector-bookshelf",
+  "name": "@nzxt/strapi-connector-bookshelf",
   "version": "3.6.8",
   "description": "Bookshelf hook for the Strapi framework",
   "homepage": "https://strapi.io",

@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate-service",
+  "name": "@nzxt/strapi-generate-service",
   "version": "3.6.8",
   "description": "Generate a service for a Strapi API.",
   "homepage": "https://strapi.io",

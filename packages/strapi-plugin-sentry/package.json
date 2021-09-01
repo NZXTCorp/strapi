@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-sentry",
+  "name": "@nzxt/strapi-plugin-sentry",
   "version": "3.6.8",
   "description": "Send Strapi error events to Sentry",
   "strapi": {

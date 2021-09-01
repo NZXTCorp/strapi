@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-sendmail",
+  "name": "@nzxt/strapi-provider-email-sendmail",
   "version": "3.6.8",
   "description": "Sendmail provider for strapi email",
   "homepage": "https://strapi.io",

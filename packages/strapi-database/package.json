@@ -1,5 +1,5 @@
 {
-  "name": "strapi-database",
+  "name": "@nzxt/strapi-database",
   "version": "3.6.8",
   "description": "Strapi's database layer",
   "homepage": "https://strapi.io",

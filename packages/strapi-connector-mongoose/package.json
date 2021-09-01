@@ -1,5 +1,5 @@
 {
-  "name": "strapi-connector-mongoose",
+  "name": "@nzxt/strapi-connector-mongoose",
   "version": "3.6.8",
   "description": "Mongoose hook for the Strapi framework",
   "homepage": "https://strapi.io",

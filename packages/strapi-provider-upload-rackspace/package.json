@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-rackspace",
+  "name": "@nzxt/strapi-provider-upload-rackspace",
   "version": "3.6.8",
   "description": "Rackspace provider for strapi upload",
   "main": "./lib",

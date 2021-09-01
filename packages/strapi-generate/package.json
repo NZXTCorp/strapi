@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate",
+  "name": "@nzxt/strapi-generate",
   "version": "3.6.8",
   "description": "Master of ceremonies for the Strapi generators.",
   "homepage": "https://strapi.io",

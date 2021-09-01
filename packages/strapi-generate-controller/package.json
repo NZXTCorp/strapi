@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate-controller",
+  "name": "@nzxt/strapi-generate-controller",
   "version": "3.6.8",
   "description": "Generate a controller for a Strapi API.",
   "homepage": "https://strapi.io",

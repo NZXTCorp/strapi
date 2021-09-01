@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate-plugin",
+  "name": "@nzxt/strapi-generate-plugin",
   "version": "3.6.8",
   "description": "Generate an plugin for a Strapi application.",
   "homepage": "https://strapi.io",

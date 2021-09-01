@@ -1,5 +1,5 @@
 {
-  "name": "strapi-generate-policy",
+  "name": "@nzxt/strapi-generate-policy",
   "version": "3.6.8",
   "description": "Generate a policy for a Strapi API.",
   "homepage": "https://strapi.io",

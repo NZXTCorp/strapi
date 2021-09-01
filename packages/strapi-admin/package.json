@@ -1,5 +1,5 @@
 {
-  "name": "strapi-admin",
+  "name": "@nzxt/strapi-admin",
   "version": "3.6.8",
   "description": "Strapi Admin",
   "repository": {

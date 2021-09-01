@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-mailgun",
+  "name": "@nzxt/strapi-provider-email-mailgun",
   "version": "3.6.8",
   "description": "Mailgun provider for strapi email plugin",
   "homepage": "https://strapi.io",
